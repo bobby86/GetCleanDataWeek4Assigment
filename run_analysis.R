@@ -237,4 +237,4 @@ AveragedData <- ExtractedData %>% group_by(SubjectId, ActivityName) %>% summaris
 head(AveragedData)
 
 #Writing the Data to a .txt file
-write.table(AveragedData, "./UCI_HARUS_TidyDataWithAveragedVariables.txt")
+write.table(AveragedData, "./UCI_HARUS_TidyDataWithAveragedVariables.txt", row.name = FALSE)

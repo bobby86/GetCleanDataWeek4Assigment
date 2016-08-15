@@ -16,7 +16,7 @@ for the assignment. so, further explaination for the raw data processing is not 
 
 Final processing of the computed data was performed in sections 3, 4, 5, and 6.
 
-The Assignment requires to create one R script called run_analysis.R that accomplishes the following 6 Objectives. 
+The Assignment requires to create one R script called run_analysis.R that accomplishes the following 5 Objectives in bold letters. 
 These objectives are achieved in the sections of the code listed below each objective.
 
 ##1. Merges the training and the test sets to create one data set.
